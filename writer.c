@@ -1,3 +1,5 @@
+// Author: W. Scott Spencer
+
 #include <stdio.h>
 #include "writer.h" //so we can define writer's prototype functions ("" because it's in the same directory)
 
