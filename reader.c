@@ -1,3 +1,5 @@
+// Author: W. Scott Spencer
+
 #include <stdio.h>
 #include "reader.h" //so we can define reader's prototype functions ("" because it's in the same directory)
 
