@@ -1,3 +1,4 @@
+# Author: W. Scott Spencer
 # build an executable file named main from main.c, reader.c, writer.c, reader.h, and writer.h
 CFLAGS = -Wall -std=c99
 
